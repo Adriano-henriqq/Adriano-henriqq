@@ -1,4 +1,4 @@
-### Olá! Eu sou o Adriano Henrique ✌️
+### Olá! me chamo Adriano Henrique 🤙🏻
 
 [![Rede sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-henrique-medeiros-85b95b180)
 [![Rede sociais](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-react-att.vercel.app/)
@@ -17,3 +17,4 @@
     <img align= 'center' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js' />
 
 </div>
+
